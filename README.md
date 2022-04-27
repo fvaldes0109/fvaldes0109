@@ -4,7 +4,7 @@ I'm not really sure what to write here, so I'll just go with the template for no
 
 - 🔭 I’m currently studying Computer Science at University of Havana. Not gonna lie, it's kinda hard, but totally worth it 👌.
 
-- 🌱 I’m currently learning the grounds of C# and some cool recursion strategies... and a lot of stuff in math I didn't even think existed. I mean what the heck is a vectorial space anyway?? 😰
+- 🌱 I’m currently learning the dark magic of OOP.
 
 - 💬 Ask me about the meaning of life. I won't say 42, promise.
 
@@ -13,3 +13,5 @@ I'm not really sure what to write here, so I'll just go with the template for no
 - 😄 Pronouns: You can reffer to me by `asere` or `papa🥔`.
 
 - ⚡ Fun fact: Did you know that one horse has 15 about horsepower??? Science has betrayed me :(
+
+- 🤡 Pun: How does a programmer become rich? By inheritance 🥁
