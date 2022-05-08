@@ -8,7 +8,7 @@ I'm not really sure what to write here, so I'll just go with the template for no
 
 - 💬 Ask me about the meaning of life. I won't say 42, promise.
 
-- 📫 How to reach me: You can find me on Telegram as [@CyberNet_inc](https://t.me/CyberNet_inc)
+- 📫 How to reach me: You can find me on Telegram as [@CyberNet_inc](https://t.me/CyberNet_inc) or Twitter as [@fvaldes0109](https://twitter.com/fvaldes0109)
 
 - 😄 Pronouns: You can reffer to me by `asere` or `papa🥔`.
 
