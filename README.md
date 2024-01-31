@@ -6,7 +6,7 @@ I'm not really sure what to write here, so I'll just go with the template for no
 
 - 💬 Ask me about the meaning of life. I won't say 42, promise.
 
-- 📫 How to reach me: You can [email me](mailto:fvaldes0109@gmail.com), check my [LinkedIn](https://www.linkedin.com/in/fernando-vald%C3%A9s-garc%C3%ADa-a46142221/), find me on Telegram as [@CyberNet_inc](https://t.me/CyberNet_inc), or Twitter as [@CyberNet_inc01](https://twitter.com/CyberNet_inc01) because aparently it was already taken 😒
+- 📫 How to reach me: You can [email me](mailto:fvaldes0109@gmail.com), check my [LinkedIn](https://www.linkedin.com/in/fvaldes0109), find me on Telegram as [@CyberNet_inc](https://t.me/CyberNet_inc), or Twitter as [@CyberNet_inc01](https://twitter.com/CyberNet_inc01) because aparently it was already taken 😒
 
 - 😄 Pronouns: You can reffer to me by `asere` or `papa🥔`.
 
