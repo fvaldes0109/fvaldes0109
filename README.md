@@ -2,7 +2,7 @@
 
 I'm not really sure what to write here, so I'll just go with the template for now 😝.
 
-- 🔭 I’m currently studying Computer Science at University of Havana. Not gonna lie, it's kinda hard, but totally worth it 👌.
+- 🔭 I’m currently studying Computer Science at Harbour.Space University.
 
 - 💬 Ask me about the meaning of life. I won't say 42, promise.
 
