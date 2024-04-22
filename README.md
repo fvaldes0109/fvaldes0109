@@ -13,3 +13,5 @@ I'm not really sure what to write here, so I'll just go with the template for no
 - ⚡ Fun fact: Did you know that one horse has 15 about horsepower??? Science has betrayed me :(
 
 - 🤡 Pun: How does a programmer become rich? By inheritance 🥁
+
+![Fernando's github stats](https://github-readme-stats.vercel.app/api?username=fvaldes0109)
